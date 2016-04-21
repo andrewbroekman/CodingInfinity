@@ -1,4 +1,4 @@
-# COS301 Main Project Contributors
+# COS301 Main Project
 
 This is the git repository of the CodingInfinity Team for the University of Pretoria Computer Science COS301 2016 module.
 
