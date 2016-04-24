@@ -3,3 +3,6 @@
 * **Andrew Broekman** u11089777
   * Github: https://github.com/andrewbroekman
   * Linkedin: https://www.linkedin.com/in/andrewbroekman
+  
+* **Reinhardt Cromhout** u14009936
+  * Github: https://github.com/ReinhardtCromhout
