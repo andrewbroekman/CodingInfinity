@@ -6,3 +6,7 @@
   
 * **Reinhardt Cromhout** u14009936
   * Github: https://github.com/ReinhardtCromhout
+
+* **Brenton Watt** u14032644
+  * Github: https://github.com/BrentonWatt
+  * Linkedin: https://za.linkedin.com/in/brentontw
